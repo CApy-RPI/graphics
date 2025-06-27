@@ -7,6 +7,7 @@ Target audience:
 - Not all are tech-savvy, especially non-CS majors
 - Appreciate aesthetic design and responsive UI
 - Value clarity, utility, and a bit of fun
+- Professors, Club officers
 
 By extension, our branding should fit this vibe:
 
