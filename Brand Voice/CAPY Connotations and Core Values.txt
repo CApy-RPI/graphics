@@ -11,6 +11,10 @@ Feelings:
 - Aesthetic
 - Experience
 - Community
+- Innovative
+- Resource
+- Utility
+- Assist
 
 Core Values:
 - Automates administrative tasks 

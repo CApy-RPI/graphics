@@ -1,0 +1,25 @@
+Target audience:
+- College-aged (18–24)
+- Busy juggling coursework and leadership
+	- Often time-crunched, want fast results
+- Often using Discord already
+- Prefer tools that are easy, visual, and intuitive
+- Not all are tech-savvy, especially non-CS majors
+- Appreciate aesthetic design and responsive UI
+- Value clarity, utility, and a bit of fun
+
+By extension, our branding should fit this vibe:
+
+Tone:
+- Friendly
+- Competent
+- Modern
+- Student-Oriented
+- Trustworthy
+- Approachable
+- Reliable
+
+Voice:
+- Informal
+- Fun
+
