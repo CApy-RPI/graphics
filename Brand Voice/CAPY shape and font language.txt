@@ -4,5 +4,9 @@ The logo should be clear and concisely defined.
 
 Shape Language:
 - avoid circles
-	- too serious
+	- too serious / formal
+		- CAPY should feel professional but fun
+- thinner line weights
+- utilize lots of negative space
+	- minimalistic effect
 - 

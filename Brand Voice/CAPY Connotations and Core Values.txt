@@ -16,6 +16,7 @@ Feelings:
 - Utility
 - Assist
 - Modern
+- Reliable
 
 Core Values:
 - Automates administrative tasks 
