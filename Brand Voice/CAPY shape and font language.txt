@@ -1,0 +1,35 @@
+Font Language:
+With a modern, approachable feel, CAPY should target clean, minimal, and modern.
+The logo should be clear and concisely defined. Avoid Serif fonts and heavily bolded typefaces. 
+
+Potential Adobe Typefaces:
+- Neue Haas Grotesk Display Pro
+	- too defaulty
+- ITC Avant Garde Gothic Pro
+	- also a little default
+- Futura PT
+	- little default, lines too sharp
+- Novecento Sans
+- Oscine
+- FinalSix
+	- bold and unique
+- Bebas Neue SemiRounded
+- Arboria Book
+- Basic Sans ExtraLight It
+- Darkmode DarkmodeOn
+- Darkmode DarkmodeOff
+- Loos Wide
+- Skolar Sans Latin Condensed
+- Commuters Sans
+- Basic Gothic Pro
+- Tablet Gothic
+- Objektiv Mk3
+	- little default, lines too sharp
+
+Shape Language:
+- avoid circles
+	- too serious / formal
+		- CAPY should feel professional but fun
+- thinner line weights
+- utilize lots of negative space
+	- minimalistic effect

@@ -1,0 +1,29 @@
+MEETING NOTES:
+
+iterations to design:
+- underlying design element
+	- 45 deg line
+- experiment with subversions of logo
+	- identifying design element
+	- text sizing
+	- symbol vs text
+
+
+research digital brand guidelines
+
+
+developing brand guide:
+- outline how design work would go to people who don't know about CAPY
+
+design unity across platforms:
+- create a set of default 'deliverables' to implement the branding
+	- decide what works where
+		- create guide based on this feedback
+
+
+
+Identify products we will be creating and using
+- discord app? website? etc
+	- what will we be creating? build identity around this
+
+
